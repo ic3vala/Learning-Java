@@ -8,7 +8,7 @@
 - 变量与数据类型：`int`, `String`, `boolean`等
 - `for`循环和`if`语句
 ### 代码练习
-- [HelloWorld.java](./code/Day1/HelloWorld.java)
+- [Hello.java](./code/Day1/Hello.java)
   
 ### 遇到的问题
 - 为什么`String`是类而不是基本类型？
