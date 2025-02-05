@@ -1,5 +1,15 @@
 ## Day 2: Java方法与简单学生管理系统
 ### 学习内容
+1.流程控制
+- `java.util.Sanner`
+```java
+Scanner s = new Scanner(System.in)
+```
+- 
+- 
+- `for`循环和`if`语句
+
+2.方法
 - 方法的定义与调用
 - 面向对象基础（类、对象）
 ### 代码练习
