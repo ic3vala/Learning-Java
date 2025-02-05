@@ -1,5 +1,7 @@
 public class ArrayDemo {
     public static void main(String[] args) {
+        //dataType[] arrayRefVar = new dataType[arraySize];
+
         int[] nums; //2.声明一个数组
         nums = new int[10]; //3.创建一个数组
 
