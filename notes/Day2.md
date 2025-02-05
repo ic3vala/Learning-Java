@@ -36,7 +36,16 @@ public class Demo {
 - [九九乘法表](./code/Day2/ForDemo.java)
 - [打印三角形](./code/Day2/Triangle.java)
 - [四则运算](./code/Day2/Operation.java)
-- [StudentManager.java](./code/Day2/StudentManager.java)
+
+- [StudentManager简单学生管理系统](./code/Day2/Student)
+####**管理结构**
+```
+student/
+├── Student.java
+├── StudentManager.java
+└── Main.java
+```
+
 ---
 ### 遇到的问题
 - 如何在方法中正确传递参数？
