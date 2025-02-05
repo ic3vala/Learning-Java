@@ -37,5 +37,19 @@ public class StudentManager {
     public void findStudentById(){
         System.out.print("请输入要查找的学号：");
         String targetId = scanner.nextLine();
+        boolean found = false;
+
+        //遍历所有学生
+        for (Student student : students){
+            if (student.getId().equals(targetId)){
+                student.displayInfo();
+                found = true;
+            }
+        }
+        
+        if (!found){
+            System.out.println("未找到学号为 " +  targetId + " 的学生。");
+        }
     }
+
 }
