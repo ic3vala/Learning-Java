@@ -35,6 +35,7 @@ public class Demo {
 - [ScannerText.java](./code/Day2/ScannerText.java)
 - [九九乘法表](./code/Day2/ForDemo.java)
 - [打印三角形](./code/Day2/Triangle.java)
+- [四则运算](./code/Day2/Operation.java)
 - [StudentManager.java](./code/Day2/StudentManager.java)
 ---
 ### 遇到的问题
