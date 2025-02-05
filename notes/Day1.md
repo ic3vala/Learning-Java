@@ -17,7 +17,7 @@
   5. 方法名：run(), runRun()
 - 三目运算符： ?:  x?y:z
 - 包名倒置 package pkg1[. pkg2[. pkg3...]];  import package1[.package2...].(classname|*);
-- `for`循环和`if`语句
+
 
 ---
 ### 代码练习
