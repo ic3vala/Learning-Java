@@ -37,8 +37,8 @@ public class Demo {
 - [打印三角形](./code/Day2/Triangle.java)
 - [四则运算](./code/Day2/Operation.java)
 
-- [StudentManager简单学生管理系统](./code/Day2/Student)
-####**管理结构**
+- [StudentManager简单学生管理系统](./code/Day2/student)
+#### **管理结构**
 ```
 student/
 ├── Student.java
