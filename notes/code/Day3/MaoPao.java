@@ -19,15 +19,19 @@ public class MaoPao
         int temp = 0;
         //外层，判断这个要走多少次；
         for(int i=0; i<array.length-1; i++){
+            boolean flag = true;
             //内层循环，比较判断两数，如果第一个数比第二个大，则交换位置
             for(int j=0; j<array.length-1-i; j++){
                 if(array[j+1]<array[j]){
                     temp = array[j];
                     array[j] = array[j+1];
                     array[j+1] = temp;
+                    flag = false;
                 }
             }
-        }
+            if(flag){
+                break;
+            }         }
         return array;
     }
 }
