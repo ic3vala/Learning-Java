@@ -5,8 +5,9 @@
 ```java
 Scanner s = new Scanner(System.in)
 ```
-- 顺序结构 -> 选择结构 -> 循环结构 ->
+- 顺序结构 -> 选择结构 -> 循环结构 
 - `for`循环和`if`语句等
+- `System.out.println`输出一行，`System.out.print`不换行
 
 2.方法
 - 方法的定义与调用
